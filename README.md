@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BLACK one-word domains still available to buy.
 
-This dataset contains 4,453 .BLACK one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,454 .BLACK one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BLACK one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=black-oneword-domains&utm_content=description.top) (4,455) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BLACK one word domain
 | aaa.black        | available | 70       | 38%    | 3      |                                              |                  |                  |
 | abactinal.black  | available | 50       | 1%     | 9      |                                              |                  |                  |
 | abaft.black      | available | 43       | 2%     | 5      |                                              |                  |                  |
-| abandoned.black  | available | 58       | 10%    | 9      |                                              |                  |                  |
+| abandoned.black  | available | 58       | 7%     | 9      |                                              |                  |                  |
 | abashed.black    | available | 60       | 2%     | 7      |                                              |                  |                  |
 | abasic.black     | available | 54       | 2%     | 6      |                                              |                  |                  |
 | abatable.black   | available | 54       | 1%     | 8      |                                              |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.BLACK one word domain
 | abbatial.black   | available | 50       | 1%     | 8      |                                              |                  |                  |
 | abc.black        | resell    | 102      | 41%    | 3      | Xiamen ChinaSource Internet Service Co., Ltd | 22/06/2025 15:15 | 22/06/2026 15:15 |
 | abdicable.black  | available | 50       | 1%     | 9      |                                              |                  |                  |
-| abdominal.black  | available | 82       | 1%     | 9      |                                              |                  |                  |
+| abdominal.black  | available | 82       | 5%     | 9      |                                              |                  |                  |
 | abdominous.black | available | 56       | 1%     | 10     |                                              |                  |                  |
 | abducens.black   | available | 54       | 1%     | 8      |                                              |                  |                  |
 | abducent.black   | available | 68       | 1%     | 8      |                                              |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.BLACK one word domain
 | aberdonian.black | available | 68       | 1%     | 10     |                                              |                  |                  |
 | aberrant.black   | available | 74       | 7%     | 8      |                                              |                  |                  |
 | abeyant.black    | available | 56       | 2%     | 7      |                                              |                  |                  |
-| abhorrent.black  | available | 54       | 1%     | 9      |                                              |                  |                  |
+| abhorrent.black  | available | 54       | 3%     | 9      |                                              |                  |                  |
 | abiding.black    | available | 106      | 5%     | 7      |                                              |                  |                  |
 | abient.black     | available | 54       | 1%     | 6      |                                              |                  |                  |
 | ability.black    | available | 92       | 18%    | 7      |                                              |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BLACK one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
