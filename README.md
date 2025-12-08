@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BLACK one-word domains still available to buy.
 
-This dataset contains 4,489 .BLACK one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,723 .BLACK one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BLACK one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=black-oneword-domains&utm_content=description.top) (4,486) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,14 @@ If you want to search & filters the complete database of [.BLACK one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/black-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/black-oneword-domains/blob/main/black.csv"><b>⬇️ CSV (4.49K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/black-oneword-domains/blob/main/black.json"><b>⬇️ JSON (4.49K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/black-oneword-domains/blob/main/black.csv"><b>⬇️ CSV (4.72K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/black-oneword-domains/blob/main/black.json"><b>⬇️ JSON (4.72K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=black-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.49K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar                                    | Created          | Expires          |
 | ---------------- | --------- | -------- | ------ | ------ | -------------------------------------------- | ---------------- | ---------------- |
-| aaa.black        | premium   | 70       | 38%    | 3      |                                              |                  |                  |
 | abactinal.black  | available | 50       | 1%     | 9      |                                              |                  |                  |
 | abaft.black      | available | 43       | 2%     | 5      |                                              |                  |                  |
 | abandoned.black  | available | 58       | 7%     | 9      |                                              |                  |                  |
@@ -31,7 +30,7 @@ If you want to search & filters the complete database of [.BLACK one word domain
 | abatic.black     | available | 54       | 2%     | 6      |                                              |                  |                  |
 | abaxial.black    | available | 54       | 2%     | 7      |                                              |                  |                  |
 | abbatial.black   | available | 50       | 1%     | 8      |                                              |                  |                  |
-| abc.black        | resell    | 102      | 41%    | 3      | Xiamen ChinaSource Internet Service Co., Ltd | 22/06/2025 15:15 | 22/06/2026 15:15 |
+| abc.black        | resell    | 102      | 39%    | 3      | Xiamen ChinaSource Internet Service Co., Ltd | 22/06/2025 15:15 | 22/06/2026 15:15 |
 | abdicable.black  | available | 50       | 1%     | 9      |                                              |                  |                  |
 | abdominal.black  | available | 82       | 5%     | 9      |                                              |                  |                  |
 | abdominous.black | available | 56       | 1%     | 10     |                                              |                  |                  |
@@ -43,10 +42,11 @@ If you want to search & filters the complete database of [.BLACK one word domain
 | aberrant.black   | available | 74       | 7%     | 8      |                                              |                  |                  |
 | abeyant.black    | available | 56       | 2%     | 7      |                                              |                  |                  |
 | abhorrent.black  | available | 54       | 3%     | 9      |                                              |                  |                  |
+| abide.black      | available | 94       | 15%    | 5      |                                              |                  |                  |
 | abiding.black    | available | 106      | 5%     | 7      |                                              |                  |                  |
 | abient.black     | available | 54       | 1%     | 6      |                                              |                  |                  |
-| ability.black    | available | 92       | 18%    | 7      |                                              |                  |                  |
-| abit.black       | available | 66       | 16%    | 5      |                                              |                  |                  |
+| ability.black    | available | 92       | 16%    | 7      |                                              |                  |                  |
+| abit.black       | available | 66       | 12%    | 5      |                                              |                  |                  |
 | abject.black     | available | 94       | 8%     | 6      |                                              |                  |                  |
 | abkhas.black     | available | 68       | 1%     | 6      |                                              |                  |                  |
 | abkhasian.black  | available | 78       | 1%     | 9      |                                              |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.BLACK one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/black-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/black-oneword-domains/blob/main/black.csv"><b>⬇️ CSV (4.49K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/black-oneword-domains/blob/main/black.json"><b>⬇️ JSON (4.49K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/black-oneword-domains/blob/main/black.csv"><b>⬇️ CSV (4.72K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/black-oneword-domains/blob/main/black.json"><b>⬇️ JSON (4.72K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=black-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.49K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.BLACK one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
