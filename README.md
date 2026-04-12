@@ -1,22 +1,22 @@
-# Available .BLACK One-Word Domains (8,991)
+# Available .BLACK One-Word Domains (8,986)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C987%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C991%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C986%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C986%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .black one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .black one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,987-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,991 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,987 rows · **Live catalog:** 8,991 domains
+**Public extract:** 8,986 rows · **Live catalog:** 8,986 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/black`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BLACK one-word domain
 
 ### Files
 
-- `black.csv` — public CSV extract (8,987 rows)
-- `black.json` — public JSON extract (8,987 rows)
+- `black.csv` — public CSV extract (8,986 rows)
+- `black.json` — public JSON extract (8,986 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -68,21 +68,21 @@ print(df.head())
 | white.black      | resell    | —         | —             | 102            | 98     | 5      | GoDaddy.com, LLC                                    |
 | enterprise.black | premium   | $650      | $650          | 68             | 61     | 10     | namecheap                                           |
 | skill.black      | available | $82.98    | —             | 120            | 42     | 5      | namecheap                                           |
-| hello.black      | resell    | —         | —             | 130            | 71     | 5      | DNSPod, Inc.                                        |
+| hello.black      | resell    | —         | —             | 130            | 70     | 5      | DNSPod, Inc.                                        |
 | ace.black        | premium   | $625      | $625          | 88             | 57     | 3      | name.com                                            |
 | track.black      | available | $29.99    | $88.49        | 94             | 42     | 5      | name.com                                            |
 | get.black        | resell    | —         | —             | 88             | 69     | 3      | Porkbun LLC                                         |
 | all.black        | premium   | $2,500    | $2,500        | 88             | 48     | 3      | name.com                                            |
-| agile.black      | available | $29.99    | $88.49        | 92             | 42     | 5      | name.com                                            |
-| easy.black       | resell    | —         | —             | 128            | 68     | 4      | Sav.com, LLC - 13                                   |
-| wizard.black     | premium   | $625      | $625          | 118            | 46     | 6      | name.com                                            |
 | demo.black       | available | $29.99    | —             | 78             | 42     | 4      | name.com                                            |
-| prompt.black     | resell    | —         | —             | 114            | 68     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| easy.black       | resell    | —         | —             | 128            | 68     | 4      | Sav.com, LLC - 13                                   |
 | car.black        | premium   | $5,200    | $5,200        | 94             | 46     | 3      | namecheap                                           |
 | text.black       | available | $29.99    | —             | 70             | 42     | 4      | name.com                                            |
+| prompt.black     | resell    | —         | —             | 114            | 68     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| wizard.black     | premium   | $625      | $625          | 118            | 43     | 6      | name.com                                            |
+| agile.black      | available | $29.99    | $88.49        | 92             | 41     | 5      | name.com                                            |
 | flow.black       | resell    | —         | —             | 96             | 67     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| craft.black      | premium   | $625      | $625          | 70             | 41     | 5      | name.com                                            |
-| unity.black      | available | $29.99    | $88.49        | 70             | 41     | 5      | name.com                                            |
+| sales.black      | premium   | $85.80    | $85.80        | 66             | 42     | 5      | namecheap                                           |
+| unity.black      | available | $29.99    | $88.49        | 70             | 40     | 5      | name.com                                            |
 | news.black       | resell    | —         | —             | 100            | 64     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,987-row public sample | 8,991 live domains                               |
+| 8,986-row public sample | 8,986 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
