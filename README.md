@@ -1,10 +1,10 @@
-# Available .BLACK One-Word Domains (11,716)
+# Available .BLACK One-Word Domains (11,923)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C716%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C923%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .black one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,716 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,923 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,716 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,923 domains
 
-**Last updated:** 2026-04-27  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/black`  
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | William.black     | premium   | $700      | $700          | 74             | 31     | 7      | namecheap        |
 | prompts.black     | available | $29.99    | —             | 54             | 39     | 7      | name.com         |
 | revolutions.black | resell    | —         | —             | 52             | 9      | 11     | GoDaddy.com, LLC |
-| computers.black   | premium   | $88.49    | —             | 68             | 19     | 9      | name.com         |
-| aliens.black      | available | $29.99    | —             | 56             | 35     | 6      | name.com         |
 | trucks.black      | premium   | $625      | —             | 55             | 19     | 6      | name.com         |
-| teams.black       | available | $29.99    | —             | 62             | 32     | 5      | name.com         |
+| aliens.black      | available | $29.99    | —             | 56             | 35     | 6      | name.com         |
 | vans.black        | premium   | $625      | —             | 55             | 17     | 4      | name.com         |
-| SanDiego.black    | available | $29.99    | —             | 74             | 29     | 9      | name.com         |
+| teams.black       | available | $29.99    | —             | 62             | 32     | 5      | name.com         |
 | designers.black   | premium   | $625      | —             | 72             | 15     | 9      | name.com         |
-| heroes.black      | available | $29.99    | —             | 68             | 29     | 6      | name.com         |
+| SanDiego.black    | available | $29.99    | —             | 74             | 29     | 9      | name.com         |
 | pins.black        | premium   | $625      | —             | 68             | 15     | 4      | name.com         |
-| dogs.black        | available | $29.99    | —             | 76             | 28     | 4      | name.com         |
+| heroes.black      | available | $29.99    | —             | 68             | 29     | 6      | name.com         |
 | Henri.black       | premium   | $92.40    | $92.40        | 66             | 15     | 5      | namecheap        |
-| bees.black        | available | $29.99    | —             | 54             | 27     | 4      | name.com         |
+| dogs.black        | available | $29.99    | —             | 76             | 28     | 4      | name.com         |
 | ghosts.black      | premium   | $625      | —             | 48             | 14     | 6      | name.com         |
-| doctors.black     | available | $29.99    | —             | 56             | 26     | 7      | name.com         |
+| schools.black     | available | $29.99    | —             | 72             | 24     | 7      | name.com         |
 | BRAS.black        | premium   | $700      | $700          | 70             | 13     | 4      | namecheap        |
+| whats.black       | available | $29.99    | —             | 58             | 24     | 5      | name.com         |
+| dollars.black     | premium   | $88.49    | —             | 64             | 12     | 7      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,716 live domains                              |
+| 1,000-row public sample | 11,923 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
