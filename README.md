@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .black one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,927 domains · **Median ask:** $51.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/black`  
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | getlife.black     | available | $29.99    | —             | 80             | 5      | 8      | name.com         |
 | leaveon.black     | available | $29.99    | —             | 80             | 1      | 8      | name.com         |
 | presents.black    | available | $29.99    | —             | 80             | 9      | 8      | name.com         |
-| whynot.black      | available | $29.99    | —             | 74             | 39     | 7      | name.com         |
+| whynot.black      | available | $29.99    | —             | 74             | 44     | 7      | name.com         |
 | products.black    | resell    | —         | —             | 60             | 23     | 8      | GoDaddy.com, LLC |
 | William.black     | premium   | $700      | $700          | 74             | 31     | 7      | namecheap        |
 | prompts.black     | available | $29.99    | —             | 54             | 39     | 7      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
