@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .black one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,929 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,929 domains · **Median ask:** $51.75 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,929 domains · **Median ask:** $51.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/black`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| useit.black       | available | $29.99    | —             | 94             | 7      | 6      | name.com         |
-| gearup.black      | available | $29.99    | —             | 80             | 16     | 7      | name.com         |
-| playin.black      | available | $29.99    | —             | 80             | 10     | 7      | name.com         |
-| QandA.black       | available | $82.98    | —             | 80             | 10     | 7      | namecheap        |
-| hangon.black      | available | $29.99    | —             | 82             | 6      | 7      | name.com         |
-| stirup.black      | available | $29.99    | —             | 82             | 3      | 7      | name.com         |
-| getlife.black     | available | $29.99    | —             | 80             | 5      | 8      | name.com         |
-| leaveon.black     | available | $29.99    | —             | 80             | 1      | 8      | name.com         |
-| presents.black    | available | $29.99    | —             | 80             | 9      | 8      | name.com         |
-| whynot.black      | available | $29.99    | —             | 74             | 44     | 7      | name.com         |
-| products.black    | resell    | —         | —             | 60             | 23     | 8      | GoDaddy.com, LLC |
-| William.black     | premium   | $700      | $700          | 74             | 31     | 7      | namecheap        |
-| prompts.black     | available | $29.99    | —             | 54             | 39     | 7      | name.com         |
-| revolutions.black | resell    | —         | —             | 52             | 9      | 11     | GoDaddy.com, LLC |
-| trucks.black      | premium   | $625      | —             | 55             | 19     | 6      | name.com         |
-| aliens.black      | available | $29.99    | —             | 56             | 35     | 6      | name.com         |
-| vans.black        | premium   | $625      | —             | 55             | 17     | 4      | name.com         |
-| teams.black       | available | $29.99    | —             | 62             | 32     | 5      | name.com         |
-| designers.black   | premium   | $625      | —             | 72             | 15     | 9      | name.com         |
-| SanDiego.black    | available | $29.99    | —             | 74             | 29     | 9      | name.com         |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| AlbertEinstein.black | available | $29.99    | —             | 94             | 7      | 15     | name.com                                     |
+| attainable.black     | available | $29.99    | —             | 86             | 8      | 10     | name.com                                     |
+| setting.black        | available | $29.99    | —             | 84             | 10     | 7      | name.com                                     |
+| practicing.black     | available | $29.99    | —             | 82             | 6      | 10     | name.com                                     |
+| primitive.black      | available | $29.99    | —             | 82             | 16     | 9      | name.com                                     |
+| alive.black          | available | $29.99    | —             | 84             | 31     | 5      | name.com                                     |
+| interview.black      | available | $29.99    | —             | 92             | 29     | 9      | name.com                                     |
+| include.black        | available | $29.99    | —             | 99             | 14     | 7      | name.com                                     |
+| tomorrow.black       | available | $29.99    | —             | 88             | 40     | 8      | name.com                                     |
+| poolside.black       | available | $29.99    | —             | 94             | 14     | 8      | name.com                                     |
+| await.black          | available | $29.99    | —             | 92             | 11     | 5      | name.com                                     |
+| pay.black            | premium   | —         | —             | 84             | 56     | 3      | —                                            |
+| dough.black          | available | $29.99    | —             | 100            | 17     | 5      | name.com                                     |
+| sure.black           | available | $29.99    | —             | 110            | 26     | 4      | name.com                                     |
+| bed.black            | premium   | $625      | —             | 82             | 20     | 3      | name.com                                     |
+| walking.black        | available | $29.99    | —             | 96             | 18     | 7      | name.com                                     |
+| soft.black           | resell    | —         | —             | 124            | 32     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| environmental.black  | available | $29.99    | —             | 84             | 16     | 13     | name.com                                     |
+| cap.black            | available | $29.99    | —             | 84             | 30     | 3      | name.com                                     |
+| proficient.black     | available | $29.99    | $88.49        | 88             | 10     | 10     | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
