@@ -1,10 +1,10 @@
-# Available .BLACK One-Word Domains (11,929)
+# Available .BLACK One-Word Domains (11,934)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C929%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C934%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .black one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,929 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,934 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,929 domains · **Median ask:** $51.87 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,934 domains · **Median ask:** $47.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/black`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/black`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BLACK one-word domain
 
 ### Files
 
-- `black.csv` — public CSV extract (1,000 rows)
-- `black.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `black.csv`, public CSV extract (1,000 rows)
+- `black.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| AlbertEinstein.black | available | $29.99    | —             | 94             | 7      | 15     | name.com                                     |
-| attainable.black     | available | $29.99    | —             | 86             | 8      | 10     | name.com                                     |
-| setting.black        | available | $29.99    | —             | 84             | 10     | 7      | name.com                                     |
-| practicing.black     | available | $29.99    | —             | 82             | 6      | 10     | name.com                                     |
-| primitive.black      | available | $29.99    | —             | 82             | 16     | 9      | name.com                                     |
-| alive.black          | available | $29.99    | —             | 84             | 31     | 5      | name.com                                     |
-| interview.black      | available | $29.99    | —             | 92             | 29     | 9      | name.com                                     |
-| include.black        | available | $29.99    | —             | 99             | 14     | 7      | name.com                                     |
-| tomorrow.black       | available | $29.99    | —             | 88             | 40     | 8      | name.com                                     |
-| poolside.black       | available | $29.99    | —             | 94             | 14     | 8      | name.com                                     |
-| await.black          | available | $29.99    | —             | 92             | 11     | 5      | name.com                                     |
-| pay.black            | premium   | —         | —             | 84             | 56     | 3      | —                                            |
-| dough.black          | available | $29.99    | —             | 100            | 17     | 5      | name.com                                     |
-| sure.black           | available | $29.99    | —             | 110            | 26     | 4      | name.com                                     |
-| bed.black            | premium   | $625      | —             | 82             | 20     | 3      | name.com                                     |
-| walking.black        | available | $29.99    | —             | 96             | 18     | 7      | name.com                                     |
-| soft.black           | resell    | —         | —             | 124            | 32     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| environmental.black  | available | $29.99    | —             | 84             | 16     | 13     | name.com                                     |
-| cap.black            | available | $29.99    | —             | 84             | 30     | 3      | name.com                                     |
-| proficient.black     | available | $29.99    | $88.49        | 88             | 10     | 10     | name.com                                     |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| okay.black | available | $29.99    | $88.49        | high           | low    | 4      | name.com                                                  |
+| atp.black  | available | $29.99    | —             | medium         | low    | 3      | name.com                                                  |
+| one.black  | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| all.black  | premium   | $2,500    | $2,500        | high           | medium | 3      | name.com                                                  |
+| but.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| city.black | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| Ava.black  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| cap.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| data.black | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC                                          |
+| bed.black  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| cxv.black  | available | $17.48    | $82.98        | low            | low    | 3      | namecheap                                                 |
+| farm.black | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| lcd.black  | premium   | $2,500    | —             | high           | low    | 3      | name.com                                                  |
+| dry.black  | available | $29.99    | $88.49        | high           | low    | 3      | name.com                                                  |
+| find.black | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| rag.black  | premium   | $85.80    | $85.80        | medium         | low    | 3      | namecheap                                                 |
+| egg.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| rose.black | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                                |
+| bags.black | premium   | $625      | —             | medium         | low    | 4      | name.com                                                  |
+| err.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,929 live domains                        |
+| 1,000-row public sample | 11,934 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .black domains. The strongest options tend to be simple words that read cleanly with the extension and feel intentional rather than forced. Examples like tips.black, jewels.black, ladies.black, and finals.black show the range: generic terms, category words, and words with strong thematic contrast. For founders, the key question is whether the full domain is memorable and easy to explain aloud. For investors, focus on entry price discipline, renewal tolerance, and whether the word has broad resale appeal beyond a narrow use case. Short, familiar words usually deserve the closest look.
+This list covers one-word .black domains across every style, from short and modern to playful and elegant. Nearly all are ownable now at low entry prices, with a small subset of premium and resell listings priced higher due to demand or brand relevance.
 
-- All domains in this set use the .black extension
-- Median ask across the selection is 51.76
-- Prioritize words that read naturally with .black
-- Avoid names that feel awkward, obscure, or trademark-exposed
+- 11,435 of 11,934 domains are available now
+- 88% priced under $500; median ask $47.55
+- 332 premium, 167 resell listings in this set
+- 7,665 domains flagged as easy to spell
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
