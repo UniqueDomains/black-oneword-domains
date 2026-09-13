@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .black one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,087 domains · **Median ask:** $33.62 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/black`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,8 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| okay.black  | available | $29.99    | $88.49        | high           | low    | 4      | name.com                                                  |
-| sorry.black | available | $29.99    | $88.49        | high           | low    | 5      | name.com                                                  |
-| one.black   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | atp.black   | available | $29.99    | —             | medium         | low    | 3      | name.com                                                  |
+| one.black   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | all.black   | premium   | $2,500    | $2,500        | high           | medium | 3      | name.com                                                  |
 | but.black   | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
 | city.black  | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
@@ -84,6 +82,8 @@ print(df.head())
 | egg.black   | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
 | soft.black  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
 | bags.black  | premium   | $625      | —             | medium         | low    | 4      | name.com                                                  |
+| err.black   | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| group.black | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
