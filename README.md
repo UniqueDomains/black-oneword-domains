@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .black one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,865 domains · **Median ask:** $30.99 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/black`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| atp.black   | available | $29.99    | —             | medium         | low    | 3      | name.com                                                  |
-| mixed.black | resell    | $29.99    | —             | low            | low    | 5      | Spaceship, Inc.                                           |
-| all.black   | premium   | $2,660    | $2,660        | medium         | low    | 3      | namesilo                                                  |
-| but.black   | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
-| one.black   | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| ava.black   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
-| cap.black   | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
-| city.black  | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| bed.black   | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| cxv.black   | available | $17.48    | $82.98        | low            | low    | 3      | namecheap                                                 |
-| farm.black  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| lcd.black   | premium   | $2,500    | —             | high           | low    | 3      | name.com                                                  |
-| dry.black   | available | $29.99    | $88.49        | high           | low    | 3      | name.com                                                  |
-| live.black  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 39                                         |
-| rag.black   | premium   | $85.80    | $85.80        | medium         | low    | 3      | namecheap                                                 |
-| egg.black   | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
-| rose.black  | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                                |
-| bags.black  | premium   | $625      | —             | medium         | low    | 4      | name.com                                                  |
-| err.black   | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
-| group.black | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| abo.black  | available | $17.48    | $82.98        | high           | low    | 3      | namecheap                                                 |
+| bit.black  | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ava.black  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| ate.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| lab.black  | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| bed.black  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| atp.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| usa.black  | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
+| bra.black  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| bae.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| bird.black | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| joy.black  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| beg.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| city.black | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| lcd.black  | premium   | $2,500    | —             | high           | low    | 3      | name.com                                                  |
+| but.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| duck.black | resell    | —         | —             | high           | low    | 4      | Unstoppable Domains Inc                                   |
+| pen.black  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| cap.black  | available | $29.99    | —             | high           | low    | 3      | name.com                                                  |
+| farm.black | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
