@@ -1,10 +1,10 @@
-# Available .BLACK One-Word Domains (31,546)
+# Available .BLACK One-Word Domains (33,780)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C546%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C780%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .black one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,546 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,780 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,546 domains · **Median ask:** $37.35 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 33,780 domains · **Median ask:** $36.69 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/black`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | abm.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
 | alpha.black  | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                         |
 | lp.black     | premium   | $1,000.50 | $1,107        | high           | low    | 3      | unstoppable                                         |
-| apt.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
+| ami.black    | available | $50.20    | $50.20        | high           | medium | 3      | cloudflare                                          |
 | ocean.black  | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | tia.black    | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship                                           |
-| aro.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
+| apt.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
 | health.black | resell    | —         | —             | high           | medium | 6      | Porkbun LLC                                         |
 | ella.black   | premium   | $640      | $640          | high           | low    | 4      | namesilo                                            |
-| bds.black    | available | $15.96    | $52.01        | high           | low    | 3      | porkbun                                             |
+| aro.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
 | garb.black   | premium   | $650      | $650          | high           | low    | 4      | namecheap                                           |
-| bhp.black    | available | $15.73    | $51.95        | high           | low    | 3      | spaceship                                           |
+| bds.black    | available | $15.96    | $52.01        | high           | low    | 3      | porkbun                                             |
 | mona.black   | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                            |
-| bja.black    | available | $17.48    | $82.98        | medium         | low    | 3      | namecheap                                           |
+| bhp.black    | available | $15.73    | $51.95        | high           | low    | 3      | spaceship                                           |
 | carly.black  | premium   | $500.50   | —             | high           | low    | 5      | unstoppable                                         |
-| bop.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
+| bja.black    | available | $17.48    | $82.98        | medium         | low    | 3      | namecheap                                           |
 | clark.black  | premium   | $88.49    | $82.50        | high           | medium | 5      | name.com                                            |
-| bug.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
+| bop.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
 | clock.black  | premium   | $68.51    | $68.51        | high           | low    | 5      | spaceship                                           |
-| cnn.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
+| bug.black    | available | $27.99    | $64.99        | high           | low    | 3      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,546 live domains                        |
+| 1,000-row public sample | 33,780 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLACK One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
